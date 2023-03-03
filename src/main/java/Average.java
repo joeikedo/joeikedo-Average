@@ -23,6 +23,6 @@ public class Average {
             sum = sum + element;
         }
 
-        return sum / nums.length;
+        return sum / nums.length; //comment to commit
     }
 }
